@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+sklearn
+lightgbm
+xgboost
+tensorflow
+torch
